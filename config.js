@@ -1,8 +1,8 @@
 userbot = {
- owner: [ "6281325994066" ],
+ owner: [ "393518398856" ],
   MONGO_URI: "mongodb+srv://zanDb:veth0581@cluster0.eyx0e.mongodb.net/<mydb>?retryWrites=true&w=majority",
    mess: {
-   wait: "tunggu sedang di proses...",
+   wait: "attendi, in corso...",
    error: "errorr!!"
    },
    apikey: {
@@ -17,12 +17,12 @@ userbot = {
    packname: 'MikoBot',
    author: 'github.com/Kotzyy',
     setting: {
-    admin: "only admin",
-    group: "only group",
-    owner: "owner only pack",
-    jadibot: "jadibot only",
-    botadmin: "bot harus menjadi admin",
-    nsfw: "FITUR BELUM DIAKTIFKAN!"
+    admin: "ou non sei admin",
+    group: "solo gurppi fra",
+    owner: "chiedi a fabri",
+    jadibot: "ma che?",
+    botadmin: "dai potere al bot",
+    nsfw: "FUNZIONI NON ATTIVATE!"
     }
 }
 module.exports = userbot
